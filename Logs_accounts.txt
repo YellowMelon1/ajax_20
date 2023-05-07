@@ -1,8 +1,8 @@
 {
-    "Nomagician1@outlook.com": {
-        "Last check": "2023-05-06",
-        "Today's points": 440,
-        "Points": 600
+    "krish1212121@outlook.com": {
+        "Last check": "2023-05-07",
+        "Today's points": 530,
+        "Points": 3794
     },
-    "Elapsed time": "00:12:16"
+    "Elapsed time": "00:13:46"
 }
